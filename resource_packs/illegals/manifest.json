@@ -5,7 +5,7 @@
         "name": "Illegal items.",
         "uuid": "3496dbfa-577b-4b56-9370-eda96bdcfc6d",
         "version": [0, 0, 1],
-        "min_engine_version": [ 1, 16, 200 ]
+        "min_engine_version": [ 1, 21, 0 ]
     },
     "modules": [
         {
