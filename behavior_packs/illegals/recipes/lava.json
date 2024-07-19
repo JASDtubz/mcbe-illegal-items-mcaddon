@@ -1,0 +1,23 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "minecraft:lava"
+        },
+        "tags": [ "crafting_table" ],
+        "pattern": [ "#" ],
+        "key": {
+            "#": "minecraft:lava_bucket"
+        },
+        "result": [
+            {
+                "item": "minecraft:lava",
+                "count": 1
+            },
+            {
+                "item": "minecraft:bucket",
+                "count": 1
+            }
+        ]
+    }
+}

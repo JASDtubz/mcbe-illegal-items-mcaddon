@@ -1,0 +1,26 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "minecraft:netherreactor"
+        },
+        "tags": [ "crafting_table" ],
+        "pattern": [
+            "#P#",
+            "#P#",
+            "#P#"
+        ],
+        "key": {
+            "P": {
+                "item": "minecraft:diamond"
+            },
+            "#": {
+                "item": "minecraft:iron_ingot"
+            }
+        },
+        "result": {
+            "item": "minecraft:netherreactor",
+            "count": 1
+        }
+    }
+}

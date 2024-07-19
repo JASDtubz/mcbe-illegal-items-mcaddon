@@ -1,0 +1,27 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "minecraft:soul_fire"
+        },
+        "tags": [ "crafting_table" ],
+        "pattern": [
+            "#",
+            "A"
+        ],
+        "key": {
+            "#": "minecraft:fire",
+            "A": "minecraft:soul_sand"
+        },
+        "result": [
+            {
+                "item": "minecraft:soul_fire",
+                "count": 1
+            },
+            {
+                "item": "minecraft:soul_sand",
+                "count": 1
+            }
+        ]
+    }
+}

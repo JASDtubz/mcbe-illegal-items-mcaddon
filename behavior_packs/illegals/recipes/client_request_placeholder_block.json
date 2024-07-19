@@ -1,0 +1,14 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "minecraft:client_request_placeholder_block"
+        },
+        "tags": [ "crafting_table" ],
+        "ingredients": [ "minecraft:invisible_bedrock" ],
+        "result": {
+            "item": "minecraft:client_request_placeholder_block",
+            "count": 1
+        }
+    }
+}

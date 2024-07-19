@@ -1,0 +1,22 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "minecraft:chainmail_helmet"
+        },
+        "tags": [ "crafting_table" ],
+        "pattern": [
+            "###",
+            "# #"
+        ],
+        "key": {
+            "#": {
+                "item": "minecraft:fire"
+            }
+        },
+        "result": {
+            "item": "minecraft:chainmail_helmet",
+            "count": 1
+        }
+    }
+}

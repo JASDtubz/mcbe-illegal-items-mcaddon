@@ -1,0 +1,23 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "minecraft:water"
+        },
+        "tags": [ "crafting_table" ],
+        "pattern": [ "#" ],
+        "key": {
+            "#": "minecraft:water_bucket"
+        },
+        "result": [
+            {
+                "item": "minecraft:water",
+                "count": 1
+            },
+            {
+                "item": "minecraft:bucket",
+                "count": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "minecraft:chiseled_purpur"
+        },
+        "tags": [ "stonecutter" ],
+        "ingredients": [ "minecraft:purpur_block" ],
+        "result": {
+            "item": "minecraft:purpur_block",
+            "data": 1,
+            "count": 1
+        }
+    }
+}

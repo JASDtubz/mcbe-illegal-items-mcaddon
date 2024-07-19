@@ -1,0 +1,14 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "minecraft:unknown"
+        },
+        "tags": [ "crafting_table" ],
+        "ingredients": [ "minecraft:dirt" ],
+        "result": {
+            "item": "minecraft:unknown",
+            "count": 1
+        }
+    }
+}

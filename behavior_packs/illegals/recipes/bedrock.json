@@ -1,0 +1,26 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "minecraft:bedrock"
+        },
+        "tags": [ "crafting_table" ],
+        "pattern": [
+            "#A#",
+            "A#A",
+            "#A#"
+        ],
+        "key": {
+            "#": {
+                "item": "minecraft:obsidian"
+            },
+            "A": {
+                "item": "minecraft:stone"
+            }
+        },
+        "result": {
+            "item": "minecraft:bedrock",
+            "count": 1
+        }
+    }
+}

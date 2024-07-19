@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "minecraft:bubble_column"
+        },
+        "tags": [ "crafting_table" ],
+        "pattern": [
+            "#",
+            "A"
+        ],
+        "key": {
+            "#": "minecraft:water",
+            "A": "minecraft:soul_sand"
+        },
+        "result": {
+            "item": "minecraft:bubble_column",
+            "count": 1
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "minecraft:reserved6"
+        },
+        "tags": [ "crafting_table" ],
+        "ingredients": [ "minecraft:unknown" ],
+        "result": {
+            "item": "minecraft:reserved6",
+            "count": 1
+        }
+    }
+}
