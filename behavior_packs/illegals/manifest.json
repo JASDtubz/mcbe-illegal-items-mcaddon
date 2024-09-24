@@ -4,7 +4,7 @@
         "description": "Illegal items.",
         "name": "Illegal items.",
         "uuid": "2e7e426f-5bff-42fa-bfd0-0d3a8dc6ef64",
-        "version": [0, 0, 1],
+        "version": [0, 0, 2],
         "min_engine_version": [ 1, 21, 0 ]
     },
     "modules": [
@@ -12,13 +12,13 @@
             "description": "Illegal items.",
             "type": "data",
             "uuid": "b26aa8bf-4109-47db-9ec5-5feec5cf0be3",
-            "version": [0, 0, 1]
+            "version": [0, 0, 2]
         }
     ],
     "dependencies": [
         {
             "uuid": "3496dbfa-577b-4b56-9370-eda96bdcfc6d",
-            "version": [0, 0, 1]
+            "version": [0, 0, 2]
         }
     ]
 }
