@@ -1,7 +1,7 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Illegal items.",
+        "description": "Illegal items names.",
         "name": "Illegal items.",
         "uuid": "3496dbfa-577b-4b56-9370-eda96bdcfc6d",
         "version": [0, 0, 2],
