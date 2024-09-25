@@ -1,10 +1,20 @@
+# Notes I break naming convention
+## Notes I change an existing name
+
 tile.acacia_standing_sign.name=Acacia Standing Sign##
+tile.acacia_wall_sign.name=Acacia Wall Sign
 tile.bamboo_standing_sign.name=Bamboo Standing Sign
+tile.bamboo_wall_sign.name=Bamboo Wall Sign
 tile.birch_standing_sign.name=Birch Standing Sign##
+tile.birch_wall_sign.name=Birch Wall Sign
 tile.bubble_column.name=Bubble Column
 tile.cherry_standing_sign.name=Cherry Standing Sign
+tile.cherry_wall_sign.name=Cherry Wall Sign
 tile.client_request_placeholder_block.name=Client Request Placeholder Block
 tile.crimson_standing_sign.name=Crimson Standing Sign##
+tile.crimson_wall_sign.name=Crimson Wall Sign##
+tile.darkoak_standing_sign.name=Dark Oak Standing Sign##
+tile.darkoak_wall_sign.name=Dark Oak Wall Sign
 tile.end_portal.name=End Portal
 tile.end_gateway.name=End Gateway
 tile.flowing_lava.name=Flowing Lava
@@ -13,9 +23,15 @@ tile.glowingobsidian.name=Glowing Obsidian#
 tile.info_update.name=Info Update
 tile.info_update2.name=Info Update 2
 tile.jungle_standing_sign.name=Jungle Standing Sign##
+tile.jungle_wall_sign.name=Jungle Wall Sign
 tile.mangrove_standing_sign.name=Mangrove Standing Sign
+tile.mangrove_wall_sign.name=Mangrove Wall Sign
+tile.melon_stem.name=Melon Stem
 tile.purpur_block.smooth.name=Smooth Purpur#
 tile.reserved6.name=Reserved 6
 tile.spruce_standing_sign.name=Spruce Standing Sign##
+tile.spruce_wall_sign.name=Spruce Wall Sign
 tile.standing_sign.name=Oak Standing Sign##
+tile.wall_sign.name=Oak Wall Sign
 tile.warped_standing_sign.name=Warped Standing Sign##
+tile.warped_wall_sign.name=Warped Wall Sign##
