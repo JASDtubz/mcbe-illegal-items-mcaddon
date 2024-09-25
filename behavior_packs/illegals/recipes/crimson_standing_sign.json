@@ -1,0 +1,14 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "minecraft:crimson_standing_sign"
+        },
+        "tags": [ "crafting_table" ],
+        "ingredients": [ "minecraft:crimson_sign" ],
+        "result": {
+            "item": "minecraft:crimson_standing_sign",
+            "count": 1
+        }
+    }
+}

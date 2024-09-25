@@ -1,0 +1,14 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "minecraft:warped_standing_sign"
+        },
+        "tags": [ "crafting_table" ],
+        "ingredients": [ "minecraft:warped_sign" ],
+        "result": {
+            "item": "minecraft:warped_standing_sign",
+            "count": 1
+        }
+    }
+}

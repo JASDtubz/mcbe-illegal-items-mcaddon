@@ -1,0 +1,14 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "minecraft:standing_sign"
+        },
+        "tags": [ "crafting_table" ],
+        "ingredients": [ "minecraft:oak_sign" ],
+        "result": {
+            "item": "minecraft:standing_sign",
+            "count": 1
+        }
+    }
+}
