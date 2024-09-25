@@ -1,0 +1,14 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "minecraft:birch_wall_sign"
+        },
+        "tags": [ "crafting_table" ],
+        "ingredients": [ "minecraft:birch_standing_sign" ],
+        "result": {
+            "item": "minecraft:birch_wall_sign",
+            "count": 1
+        }
+    }
+}

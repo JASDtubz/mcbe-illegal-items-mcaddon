@@ -1,0 +1,14 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "minecraft:darkoak_wall_sign"
+        },
+        "tags": [ "crafting_table" ],
+        "ingredients": [ "minecraft:darkoak_standing_sign" ],
+        "result": {
+            "item": "minecraft:darkoak_wall_sign",
+            "count": 1
+        }
+    }
+}

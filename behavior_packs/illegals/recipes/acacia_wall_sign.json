@@ -1,0 +1,14 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "minecraft:acacia_wall_sign"
+        },
+        "tags": [ "crafting_table" ],
+        "ingredients": [ "minecraft:acacia_standing_sign" ],
+        "result": {
+            "item": "minecraft:acacia_wall_sign",
+            "count": 1
+        }
+    }
+}
