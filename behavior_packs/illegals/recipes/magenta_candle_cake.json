@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "minecraft:magenta_candle_cake"
+        },
+        "tags": [ "crafting_table" ],
+        "pattern": [
+            "#",
+            "A"
+        ],
+        "key": {
+            "#": "minecraft:magenta_candle",
+            "A": "minecraft:cake"
+        },
+        "result": {
+            "item": "minecraft:magenta_candle_cake",
+            "count": 1
+        }
+    }
+}

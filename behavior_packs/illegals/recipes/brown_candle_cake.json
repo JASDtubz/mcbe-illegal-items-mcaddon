@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "minecraft:brown_candle_cake"
+        },
+        "tags": [ "crafting_table" ],
+        "pattern": [
+            "#",
+            "A"
+        ],
+        "key": {
+            "#": "minecraft:brown_candle",
+            "A": "minecraft:cake"
+        },
+        "result": {
+            "item": "minecraft:brown_candle_cake",
+            "count": 1
+        }
+    }
+}
