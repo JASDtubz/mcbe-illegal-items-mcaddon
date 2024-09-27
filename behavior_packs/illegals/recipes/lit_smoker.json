@@ -1,0 +1,14 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "minecraft:lit_smoker"
+        },
+        "tags": [ "crafting_table" ],
+        "ingredients": [ "minecraft:smoker" ],
+        "result": {
+            "item": "minecraft:lit_smoker",
+            "count": 1
+        }
+    }
+}

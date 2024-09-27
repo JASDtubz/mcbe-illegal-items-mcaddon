@@ -1,0 +1,14 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "minecraft:lit_deepslate_redstone_ore"
+        },
+        "tags": [ "crafting_table" ],
+        "ingredients": [ "minecraft:deepslate_redstone_ore" ],
+        "result": {
+            "item": "minecraft:lit_deepslate_redstone_ore",
+            "count": 1
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "minecraft:lit_furnace"
+        },
+        "tags": [ "crafting_table" ],
+        "ingredients": [ "minecraft:furnace" ],
+        "result": {
+            "item": "minecraft:lit_furnace",
+            "count": 1
+        }
+    }
+}

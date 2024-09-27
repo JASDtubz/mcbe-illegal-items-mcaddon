@@ -1,0 +1,14 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "minecraft:lit_redstone_lamp"
+        },
+        "tags": [ "crafting_table" ],
+        "ingredients": [ "minecraft:redstone_lamp" ],
+        "result": {
+            "item": "minecraft:lit_redstone_lamp",
+            "count": 1
+        }
+    }
+}
