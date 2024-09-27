@@ -5,7 +5,7 @@
             "identifier": "minecraft:cave_vines_head_with_berries"
         },
         "tags": [ "crafting_table" ],
-        "ingredients": [ "minecraft:cave_berries" ],
+        "ingredients": [ "minecraft:glow_berries" ],
         "result": {
             "item": "minecraft:cave_vines_head_with_berries",
             "count": 1
