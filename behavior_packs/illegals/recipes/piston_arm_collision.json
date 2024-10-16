@@ -1,0 +1,14 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "minecraft:piston_arm_collision"
+        },
+        "tags": [ "crafting_table" ],
+        "ingredients": [ "minecraft:piston" ],
+        "result": {
+            "item": "minecraft:piston_arm_collision",
+            "count": 1
+        }
+    }
+}
