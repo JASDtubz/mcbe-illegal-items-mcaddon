@@ -1,0 +1,20 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "minecraft:red_nether_brick_double_slab"
+        },
+        "tags": [ "crafting_table" ],
+        "pattern": [
+            "A",
+            "A"
+        ],
+        "key": {
+            "A": "minecraft:red_nether_brick_slab"
+        },
+        "result": {
+            "item": "minecraft:red_nether_brick_double_slab",
+            "count": 1
+        }
+    }
+}

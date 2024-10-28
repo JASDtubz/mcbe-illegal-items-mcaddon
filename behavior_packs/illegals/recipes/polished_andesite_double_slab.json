@@ -1,0 +1,20 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "minecraft:polished_andesite_double_slab"
+        },
+        "tags": [ "crafting_table" ],
+        "pattern": [
+            "A",
+            "A"
+        ],
+        "key": {
+            "A": "minecraft:polished_andesite_slab"
+        },
+        "result": {
+            "item": "minecraft:polished_andesite_double_slab",
+            "count": 1
+        }
+    }
+}
