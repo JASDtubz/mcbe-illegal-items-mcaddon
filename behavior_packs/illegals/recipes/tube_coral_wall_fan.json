@@ -1,0 +1,14 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "minecraft:tube_coral_wall_fan"
+        },
+        "tags": [ "crafting_table" ],
+        "ingredients": [ "minecraft:tube_coral_fan" ],
+        "result": {
+            "item": "minecraft:tube_coral_wall_fan",
+            "count": 1
+        }
+    }
+}
