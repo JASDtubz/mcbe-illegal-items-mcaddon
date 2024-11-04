@@ -2,9 +2,9 @@
     "format_version": 2,
     "header": {
         "description": "Illegal items names.",
-        "name": "Illegal items.",
+        "name": "Illegal names.",
         "uuid": "c27c1f0d-7ea1-40e1-863c-9a84aaba029c",
-        "version": [0, 0, 2],
+        "version": [0, 1, 0],
         "min_engine_version": [ 1, 21, 0 ]
     },
     "modules": [
@@ -12,7 +12,7 @@
             "description": "Illegal items.",
             "type": "resources",
             "uuid": "248903ab-f38c-45cb-a69e-4aa779425b3c",
-            "version": [0, 0, 2]
+            "version": [0, 1, 0]
         }
     ]
 }
