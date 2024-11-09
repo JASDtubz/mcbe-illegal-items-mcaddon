@@ -1,0 +1,17 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "minecraft:potatoes"
+        },
+        "tags": [ "crafting_table" ],
+        "ingredients": [
+            "minecraft:potato",
+            "minecraft:bone_meal"
+        ],
+        "result": {
+            "item": "minecraft:potatoes",
+            "count": 1
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "minecraft:carrots"
+        },
+        "tags": [ "crafting_table" ],
+        "ingredients": [
+            "minecraft:carrot",
+            "minecraft:bone_meal"
+        ],
+        "result": {
+            "item": "minecraft:carrots",
+            "count": 1
+        }
+    }
+}
