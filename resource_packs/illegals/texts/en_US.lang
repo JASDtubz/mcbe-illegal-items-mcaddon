@@ -2,6 +2,8 @@
 ### Notes I change an existing name
 #### Notes legacy block
 
+item.spawn_egg.name=Spawn Egg
+
 tile.acacia_standing_sign.name=§cAcacia Standing Sign###
 tile.acacia_wall_sign.name=§cAcacia Wall Sign
 tile.bamboo_double_slab.name=§cBamboo Double Slab
@@ -72,6 +74,7 @@ tile.moving_block.name=§cMoving Block
 tile.mud_brick_double_slab.name=§cMud Brick Double Slab
 tile.oxidized_double_cut_copper_slab.name=§cOxidized Cut Copper Double Slab
 tile.piston_arm_collision.name=§cPiston Arm Collision
+tile.pitcher_crop.name=§cPitcher Crop
 tile.polished_blackstone_brick_double_slab.name=§cPolished Blackstone Brick Double Slab
 tile.polished_blackstone_double_slab.name=§cPolished Blackstone Double Slab
 tile.polished_tuff_double_slab.name=§cPolished Tuff Double Slab
@@ -87,6 +90,7 @@ tile.tuff_brick_double_slab.name=§cTuff Brick Double Slab
 tile.tuff_double_slab.name=§cTuff Double Slab
 tile.unpowered_comparator.name=§cUnpowered Comparator
 tile.unpowered_repeater.name=§cUnpowered Repeater
+tile.wall_banner.name=§cWall Banner
 tile.wall_sign.name=§cOak Wall Sign
 tile.warped_standing_sign.name=§cWarped Standing Sign###
 tile.warped_wall_sign.name=§cWarped Wall Sign###
