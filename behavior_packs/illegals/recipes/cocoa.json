@@ -1,0 +1,17 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "minecraft:cocoa"
+        },
+        "tags": [ "crafting_table" ],
+        "ingredients": [
+            "minecraft:cocoa_beans",
+            "minecraft:bone_meal"
+        ],
+        "result": {
+            "item": "minecraft:cocoa",
+            "count": 1
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "minecraft:bamboo_sapling"
+        },
+        "tags": [ "crafting_table" ],
+        "ingredients": [ "minecraft:bamboo" ],
+        "result": {
+            "item": "minecraft:bamboo_sapling",
+            "count": 1
+        }
+    }
+}
