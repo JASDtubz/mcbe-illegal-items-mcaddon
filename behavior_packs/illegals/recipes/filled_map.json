@@ -1,0 +1,14 @@
+{
+    "format_version": "1.12.0",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "minecraft:filled_map"
+        },
+        "tags": [ "crafting_table" ],
+        "ingredients": [ "minecraft:empty_map" ],
+        "result": {
+            "item": "minecraft:filled_map",
+            "count": 1
+        }
+    }
+}
