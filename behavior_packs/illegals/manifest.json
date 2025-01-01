@@ -1,10 +1,10 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Illegal items.\nv0.1.0",
+        "description": "Illegal items.\nv0.2.0",
         "name": "Illegal items.",
         "uuid": "2431fc63-4046-4fdb-99d4-a127939efacd",
-        "version": [0, 1, 0],
+        "version": [0, 2, 0],
         "min_engine_version": [ 1, 21, 0 ]
     },
     "modules": [
@@ -12,13 +12,13 @@
             "description": "Illegal items.",
             "type": "data",
             "uuid": "50c1fc2f-c057-473b-8c2b-71c1a95533b3",
-            "version": [0, 1, 0]
+            "version": [0, 2, 0]
         }
     ],
     "dependencies": [
         {
             "uuid": "c27c1f0d-7ea1-40e1-863c-9a84aaba029c",
-            "version": [0, 1, 0]
+            "version": [0, 1, 2]
         }
     ]
 }
